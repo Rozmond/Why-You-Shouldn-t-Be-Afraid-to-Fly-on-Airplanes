@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to top,#87CEEB, #C7C4BF);
+    background-attachment: fixed;
+}
+
+h1{
+    color: black;
+    font-family: "Open Sans", "Inter";
+    text-align: center;
+}
+p{
+    color: black;
+    font-family: "Open Sans", "Inter";
+}
+a{
+    font-family: "Open Sans", "Inter";
+}
+h3{
+    color: black;
+    font-family: "Open Sans", "Inter";
+}
+img{
+    border-style:solid;
+    border-width: 15px;
+    border-radius: 10px;
+    border-color:rgb(29, 83, 83) ;
+}
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 2.5px;
+}
